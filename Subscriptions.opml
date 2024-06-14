@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml>
+  <head>
+    <title>Google Podcasts Subscriptions</title>
+  </head>
+  <body>
+    <outline text='feeds'>
+      <outline type='rss' text='After Hours' xmlUrl='https://feeds.feedburner.com/AfterHours_TAC'/>
+      <outline type='rss' text='All Ears English Podcast' xmlUrl='https://feeds.megaphone.fm/allearsenglish'/>
+      <outline type='rss' text='Coaching for Leaders' xmlUrl='https://feeds.podcastmirror.com/coaching-for-leaders'/>
+      <outline type='rss' text='Data Ideas' xmlUrl='https://feeds.libsyn.com/432939/rss'/>
+      <outline type='rss' text='Data Science at Home' xmlUrl='https://datascienceathome.podbean.com/feed.xml'/>
+      <outline type='rss' text='DataFramed' xmlUrl='https://feeds.captivate.fm/dataframed/'/>
+      <outline type='rss' text='Dear Sugars' xmlUrl='https://rss.wbur.org/dearsugar/podcast'/>
+      <outline type='rss' text='EASY JAPANESE PODCAST Learn Japanese with us!' xmlUrl='https://anchor.fm/s/4986dac8/podcast/rss'/>
+      <outline type='rss' text='HBR IdeaCast' xmlUrl='http://feeds.harvardbusiness.org/harvardbusiness/ideacast'/>
+      <outline type='rss' text='Hidden Brain' xmlUrl='https://feeds.simplecast.com/kwWc0lhf'/>
+      <outline type='rss' text='How to Keep Time' xmlUrl='https://feeds.megaphone.fm/howto'/>
+      <outline type='rss' text='Japanese podcast for beginners (Nihongo con Teppei)' xmlUrl='https://nihongoconteppei.com/feed/podcast'/>
+      <outline type='rss' text='Japanese with Shun' xmlUrl='https://feeds.redcircle.com/e8ab057c-683d-4375-a197-2dcc42d4f851'/>
+      <outline type='rss' text='Learn Japanese Pod' xmlUrl='https://japanese.libsyn.com/rss'/>
+      <outline type='rss' text='Learn Japanese with Noriko' xmlUrl='https://anchor.fm/s/1380f800/podcast/rss'/>
+      <outline type='rss' text='Lenny&apos;s Podcast: Product | Growth | Career' xmlUrl='https://api.substack.com/feed/podcast/10845.rss'/>
+      <outline type='rss' text='Life Kit' xmlUrl='https://feeds.npr.org/510338/podcast.xml'/>
+      <outline type='rss' text='Modern Mentor' xmlUrl='https://feeds.simplecast.com/iXBWs__o'/>
+      <outline type='rss' text='New Day' xmlUrl='https://omny.fm/shows/new-day-from-lemonada/playlists/podcast.rss'/>
+      <outline type='rss' text='Radio Headspace' xmlUrl='https://feeds.simplecast.com/7x_ooddx'/>
+      <outline type='rss' text='SAKURA TIPS｜Listen to Japanese' xmlUrl='https://anchor.fm/s/3c2daac8/podcast/rss'/>
+      <outline type='rss' text='Super Data Science' xmlUrl='https://feeds.soundcloud.com/users/soundcloud:users:253585900/sounds.rss'/>
+      <outline type='rss' text='TED Talks Daily' xmlUrl='https://open.firstory.me/rss/user/cjzdxzf7vbzvj075872kanoib'/>
+      <outline type='rss' text='The A to Z English Podcast' xmlUrl='https://feeds.redcircle.com/9472af5c-8580-45e1-b0dd-ff211db08a90'/>
+      <outline type='rss' text='The Indicator from Planet Money' xmlUrl='https://feeds.npr.org/510325/podcast.xml'/>
+      <outline type='rss' text='The InFluency Podcast' xmlUrl='https://hadarshemesh.com/feed/podcast/'/>
+      <outline type='rss' text='The Journal.' xmlUrl='https://video-api.wsj.com/podcast/rss/wsj/the-journal'/>
+      <outline type='rss' text='The Konnichiwa Podcast - Conversations in English and Japanese' xmlUrl='https://feed.podbean.com/konnichiwapodcast/feed.xml'/>
+      <outline type='rss' text='The Miku Real Japanese Podcast | Japanese conversation | Japanese culture' xmlUrl='https://feeds.buzzsprout.com/1739827.rss'/>
+      <outline type='rss' text='The Psychology of your 20’s' xmlUrl='https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/bc44988a-a82a-4291-ab8b-afdd01187fa8/39e2f432-53df-43b8-a7b9-afdd01187fc4/podcast.rss'/>
+      <outline type='rss' text='Think Fast, Talk Smart: Communication Techniques' xmlUrl='https://rss.art19.com/think-fast-talk-smart'/>
+      <outline type='rss' text='What&apos;s New In Data' xmlUrl='https://feeds.buzzsprout.com/1889937.rss'/>
+      <outline type='rss' text='WSJ Tech News Briefing' xmlUrl='https://video-api.wsj.com/podcast/rss/wsj/tech-news-briefing'/>
+    </outline>
+  </body>
+</opml>
